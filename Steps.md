@@ -15,3 +15,5 @@ Check SPI: lsmod | grep spi
 Python: sudo apt-get install python3-dev python3-pip
 Spidev: sudo apt-get install  spidev
 MFRC522: git clone  https://github.com/pimylifeup/MFRC522-python
+OP: sudo python3 write.py
+    sudo python3 read.py
